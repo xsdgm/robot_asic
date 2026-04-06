@@ -1,0 +1,8 @@
+`ifndef POLICY_DIMS_VH
+`define POLICY_DIMS_VH
+`define POLICY_DATA_W 16
+`define POLICY_FRAC_W 12
+`define POLICY_NUM_LAYERS 4
+`define POLICY_INPUT_DIM 98
+`define POLICY_OUTPUT_DIM 29
+`endif
